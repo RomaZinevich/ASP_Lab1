@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Visual Studio 2014 CTP
+**/*.sln.ide
+
+# Visual Studio temp something
+.vs/
+
+bin
+obj
+
